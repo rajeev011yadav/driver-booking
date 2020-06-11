@@ -9,7 +9,9 @@
     "mongoose": "^5.7.7",
     "node-restful": "^0.2.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
   "scripts": {
     "dev": "node server",
     "build": "node server",
